@@ -1,7 +1,7 @@
 # subtraction.r
 # Description: perform some basic subtraction and print to the console
 
-a <- 4
+a <- 8
 b <- 5
 
 a_minus_b <- a - b
