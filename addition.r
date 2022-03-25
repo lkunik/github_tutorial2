@@ -8,3 +8,5 @@ a_plus_b <- a + b
 message(paste0("a = ", a))
 message(paste0("b = ", b))
 message(paste0("a + b = ", a_plus_b))
+
+saveRDS(a_plus_b, "a_plus_b.rds")
